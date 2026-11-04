@@ -1,5 +1,7 @@
 # 汉语拼音 · Hanyu Pinyin (Android)
 
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Get_it_now-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.hanyupinyinapp)
+
 A native Android app for learning **Hanyu Pinyin** (Chinese romanization) and practicing fast
 **pinyin input** — the way you actually type Chinese on a keyboard. This is the Android twin of
 the [iOS app](https://apps.apple.com/us/app/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3-hanyu-pinyin/id6782562028),

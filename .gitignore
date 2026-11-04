@@ -12,3 +12,11 @@ keystore/
 captures/
 .externalNativeBuild/
 .cxx/
+
+# Secrets, local config, build output, archives and source material — never pushed
+.env
+.env.*
+.kotlin/
+*.zip
+**/reference/
+.playwright-mcp/
