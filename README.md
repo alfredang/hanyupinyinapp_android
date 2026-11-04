@@ -7,6 +7,8 @@ A native Android app for learning **Hanyu Pinyin** (Chinese romanization) and pr
 the [iOS app](https://apps.apple.com/us/app/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3-hanyu-pinyin/id6782562028),
 with the same features, data, and China-red white theme.
 
+<p><a href="https://play.google.com/store/apps/details?id=com.tertiaryinfotech.hanyupinyinapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"></a></p>
+
 ![汉语拼音 — Learn tab](screenshot.png)
 
 ![Platform](https://img.shields.io/badge/platform-Android%208%2B-3DDC84?logo=android&logoColor=white)
